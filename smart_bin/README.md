@@ -1,6 +1,8 @@
-# smartbins
+# App Code
 
-Smart Waste management
+Smart Waste Management System
+
+
 
 ## Getting Started
 
