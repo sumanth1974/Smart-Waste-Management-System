@@ -2,6 +2,8 @@
 
 Smart Waste Management System
 
+Use pubspec.yaml file to get all the required dependencies 
+
 
 
 ## Getting Started
